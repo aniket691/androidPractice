@@ -3,14 +3,14 @@
     xmlns:app="http://schemas.android.com/apk/res-auto">
     <item
         android:id="@+id/new_game"
-        android:icon="@drawable/baseline_games_24"
+        android:icon="@drawable/baseline_info_24"
         android:title="new game"
         app:showAsAction="ifRoom" />
     <item
         android:id="@+id/help"
-        android:icon="@drawable/baseline_help_24"
+        android:icon="@drawable/baseline_lock_24"
         android:title="@string/help"
-        app:showAsAction="ifRoom"/>
+        app:showAsAction="ifRoom" />
 
 </menu>
 
